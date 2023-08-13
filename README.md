@@ -1,7 +1,7 @@
 
 # Hastane Hasta Bakım Tasarımı
 
-Merhabalar , üniversitede staj zamanı patronumuzun yakın arkadaşı ve ortağı tarafından istenilen ve (ücretsiz) yapılan tasarımdır. Gerek yok bu görünüm iyi yönetici paneline falan gerek siz uğraşırsınız diyip çok az fonksiyonlarda bıraktırdı. Deneme yanılma kodları içerisinde kalmış olabilir. 
+Merhabalar , üniversitede staj zamanı patronumuzun yakın arkadaşı ve ortağı tarafından istenilen ve (ücretsiz) yapılan tasarımdır. Gerek yok bu görünüm iyi yönetici paneline falan gerek yok siz uğraşırsınız diyip çok az fonksiyonlarda bıraktırdı. Deneme yanılma kodları içerisinde kalmış olabilir. Ortağı hosting parasını ödemediler. Siteleri kapandı işletmenin adını değiştirdiler. Patronumuz birdaha kendisiyle iş yapmadı.
 
 
 
